@@ -1,0 +1,56 @@
+<
+Keys:
+:"x" means that that it can be customizable.
+:"ex" means that it is also customizable the key is not talking about thet.
+:Chapter : "x" this tells us the chapter.
+:OP: "x" this tells us what option it is in number order.
+:OP: "ex" : "x" this tells us which option it needs to answer to.
+	>
+
+
+
+Chapter : 1
+<
+A poor boy, living in tanzania. Gets lost to...
+
+	>
+
+<
+OP: 1
+
+1. Russia
+2. U.K
+3. Turkey
+	>
+
+<
+OP: 1 : 1
+
+A poor boy, living in tanzania. Gets lost to Russia.
+
+The boy ends up in moscow.
+	>
+
+<
+OP: 1 : 2
+
+A poor boy, living in tanzania. Gets lost to U.K.
+
+The boy ends up in london.
+	>
+
+<
+OP: 1 : 3
+
+A poor boy, living in tanzania. Gets lost to Turkey.
+
+The boy ends up in Ankara.
+	>
+<
+OP : 2
+1. Should he call the police
+2. Ask strangers
+	>
+
+<
+
