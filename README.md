@@ -22,5 +22,10 @@ My Youtube Channel: https://www.youtube.com/channel/UC4jSwauuO4fBdorRi1Vkn6g
 
 Also, Thanks to everyone who helped make this respitory better! We need more people like you in the world
 
+# Videos related to making this respitory
+1: https://youtu.be/EVHHzaWZam4
+
+2: https://youtu.be/3iBXhZHZu1c
+
 # Chapter 1
 A boy gets lost in Tanzania...
